@@ -1,0 +1,77 @@
+/* General styles */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff8f8;
+}
+
+h1, h2, p {
+    margin: 10px 0;
+    color: #212121;
+}
+
+a {
+    text-decoration: none;
+    color: #f44336;
+}
+
+/* Header styles */
+header {
+    background-color: #009688;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #f10d0d;
+}
+
+p {
+    font-size: 16px;
+    color: #181717;
+}
+
+/* Navigation styles */
+nav {
+    background-color: #e9ecef;
+    padding: 10px 0;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+a:hover {
+    color: #f44336;
+}
+
+/* Main section styles */
+main {
+    padding: 20px;
+}
+
+section {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f2f3f4;
+}
+
+/* Contact section styles */
+#contact {
+    text-align: center;
+}
+
+ul {
+    margin: 20px 0;
+}
